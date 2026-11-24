@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://canvas.ubc.ca",
+  "headless": false,
+  "maxCourses": 20,
+  "maxPagesPerCourse": 300,
+  "downloadMaxBytes": 104857600,
+  "termInclude": ["2026W1_V"],
+  "courseInclude": [],
+  "courseExclude": [],
+  "discoverFilesViaCanvasApi": true,
+  "discoverModulesViaCanvasApi": true,
+  "discoverAssignmentsViaCanvasApi": true,
+  "libreOfficePath": null
+}

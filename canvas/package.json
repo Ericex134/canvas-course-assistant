@@ -1,0 +1,12 @@
+{
+  "name": "canvas-browser-sync",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-canvas.mjs"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "playwright": "^1.56.0"
+  }
+}

@@ -1,0 +1,22 @@
+# Ignore everything unless explicitly allowed.
+*
+
+!.gitignore
+!README.md
+!INSTALL.md
+!PROJECT_INSTRUCTIONS.md
+!AGENTS.md
+
+!canvas/
+!canvas/package.json
+!canvas/package-lock.json
+!canvas/README.md
+!canvas/TESTING.md
+!canvas/scripts/
+!canvas/scripts/*.mjs
+!canvas/config/
+!canvas/config/config.example.json
+
+!skills/
+!skills/course-assistant/
+!skills/course-assistant/SKILL.md
